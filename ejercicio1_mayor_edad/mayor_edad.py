@@ -1,12 +1,12 @@
-" " "Ejercicio 1:
-Programa para verificar si una persona es mayor de edad" " "
+"""Ejercicio1:
+Programa para verificar si una persona es mayor de edad"""
 
 print ("-------------------------------------------")
 print ("-------MAYOR DE EDAD-----------")
 print ("-------------------------------------------")
 
 # input 
-edad =int(input("Digite la edad: "))
+edad=int  (input("Digite su edad:"))
 
 # processing 
 if edad >= 18:
